@@ -1,4 +1,4 @@
-# build:
+# build and test:
 
 mkdir build
 
