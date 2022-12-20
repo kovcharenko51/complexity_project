@@ -1,2 +1,15 @@
-# complexity_project
-Complexity project on 2-approximation for Multiway Cut problem
+# build and test:
+
+mkdir build
+
+cd build
+
+cmake ..
+
+make main
+
+make check_cut
+
+cd ..
+
+python3 test.py
